@@ -30,6 +30,17 @@ _The pricing is scaling up, but profitability isn’t. Selling more units doesn'
 
 _By pushing even a small margin shift (e.g., from __10% → 15%__) on the high-volume products, total profit moves disproportionately._
 
+<img width="1378" height="776" alt="roast-margin-bar" src="https://github.com/user-attachments/assets/307da727-de06-4cff-9d98-44ab2687fe9a" />
+
+## Best-selling Products: Liberica and Excelsa
+
+- Liberica: $12,054.08 revenue (26.7%), $1,567.03 profit (34.7%), ~13% margin
+- Excelsa: $12,306.44 (27.3%), $1,353.71 (29.9%), ~11% margin
+- Arabica: $11,768.50 (26.1%), $1,059.16 (23.4%), ~9% margin
+- Robusta: $9,005.25 (20.0%), $540.31 (12.0%), ~6% margin
+
+_Robusta generates meaningful revenue, but it’s the biggest profit leak per dollar sold. This is the most obvious place to raise price, improve sourcing/cost, or reposition (bundle/upsell rather than compete on price)._
+
 ## 2.5 kg dominates revenue (and can fund growth)
 
 __2.5 kg__ accounts for __~52.7% of total revenue__ ($23,785.57 out of $45,134.26).
@@ -42,14 +53,7 @@ Other sizes:
 
 _The business is heavily supported by “bulk” orders. __By improving margin on 2.5 kg__ even slightly, it will increase total profit._
 
-## Best-selling Products: Liberica and Excelsa
-
-- Liberica: $12,054.08 revenue (26.7%), $1,567.03 profit (34.7%), ~13% margin
-- Excelsa: $12,306.44 (27.3%), $1,353.71 (29.9%), ~11% margin
-- Arabica: $11,768.50 (26.1%), $1,059.16 (23.4%), ~9% margin
-- Robusta: $9,005.25 (20.0%), $540.31 (12.0%), ~6% margin
-
-_Robusta generates meaningful revenue, but it’s the biggest profit leak per dollar sold. This is the most obvious place to raise price, improve sourcing/cost, or reposition (bundle/upsell rather than compete on price)._
+<img width="1379" height="776" alt="size-percentage-bar" src="https://github.com/user-attachments/assets/e8c971a3-0ce6-4cf4-879f-bb627b871b56" />
 
 ## Size economics: 2.5 dominates revenue, but “value per 100g” drops as size increases
 

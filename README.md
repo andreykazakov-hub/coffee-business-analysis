@@ -30,7 +30,7 @@ _The pricing is scaling up, but profitability isn’t. Selling more units doesn'
 
 _By pushing even a small margin shift (e.g., from __10% → 15%__) on the high-volume products, total profit moves disproportionately._
 
-<img width="1378" height="776" alt="roast-margin-bar" src="https://github.com/user-attachments/assets/307da727-de06-4cff-9d98-44ab2687fe9a" />
+<img width="671" height="374" alt="roast-margin-bar-resized" src="https://github.com/user-attachments/assets/8c799afc-d9cf-4eeb-9b08-c1c630c7d4f6" />
 
 ## Best-selling Products: Liberica and Excelsa
 
@@ -53,7 +53,7 @@ Other sizes:
 
 _The business is heavily supported by “bulk” orders. __By improving margin on 2.5 kg__ even slightly, it will increase total profit._
 
-<img width="1379" height="776" alt="size-percentage-bar" src="https://github.com/user-attachments/assets/e8c971a3-0ce6-4cf4-879f-bb627b871b56" />
+<img width="672" height="373" alt="size-percentage-bar-resized" src="https://github.com/user-attachments/assets/ddbf8c94-68aa-44c4-a217-c0ab175d71fd" />
 
 ## Size economics: 2.5 dominates revenue, but “value per 100g” drops as size increases
 
@@ -86,3 +86,5 @@ Increase basket size: bundles (e.g., “tasting set”, “2-roast combo”), fr
 - United States: 743 orders, $35,638.89 revenue (79.0%)
 - Ireland: 146 orders, $6,696.87 (14.8%)
 - United Kingdom: 68 orders, $2,798.51 (6.2%)
+
+<img width="496" height="456" alt="country-donut-chart" src="https://github.com/user-attachments/assets/2c6c9d2e-e9ac-4ee3-925d-44fb0284678f" />

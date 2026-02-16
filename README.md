@@ -13,6 +13,37 @@ From __2019–2021__, revenue rose from __$12,187.17 → $13,766.11 (+13.6%)__; 
 
 _coffee-dashboard.xlsx_
 
+## Data Cleaning & Preparation
+
+**1. Data Consolidation**
+
+All relevant information (orders, customers, and coffee details) was merged into a single orders sheet.
+The goal was to create one analysis-ready table where each row represents a complete transaction record.
+
+**2. Data Completion**
+
+Customer information was filled in by utilizing **XLOOKUP** by customer_id
+
+<img width="954" height="100" alt="xlookup-coffee" src="https://github.com/user-attachments/assets/5dce9331-b6a4-4a98-8b1e-9a870fc40cd3" />
+
+Missing coffee/product information was filled using **INDEX_MATCH**
+
+<img width="1008" height="165" alt="indexmatch-coffee" src="https://github.com/user-attachments/assets/a599f107-7152-48b3-82c9-12f340c85d38" />
+
+*Populated multiple columns across rows (coffee type, roast, size, price)*
+
+**3. Data Validation & Formatting**
+
+To prepare the dataset for a **Pivot Table and SQL querying:**
+
+- Standardized column formats (dates, text, numeric values)
+
+- Checked and removed duplicate records
+
+- Verified key relationships (order_id, customer_id, product_id)
+
+- Ensured consistent structure for relational analysis
+
 ## Key insights
 
 ## Margin is “stuck” around ~10%
